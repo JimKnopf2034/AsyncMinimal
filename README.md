@@ -11,3 +11,7 @@ asynchronous web server.
 ## Client
 
 The client uses `Asyncio` Corountines to query the server. 
+
+## Note on update
+
+Currently outdated versions of various packages are used in this project. In case you use this code, please make sure to update dependencies before moving on.
