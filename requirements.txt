@@ -21,5 +21,5 @@ pylama==7.1.0
 requests==2.11.1
 six==1.10.0
 Twisted==16.4.1
-Werkzeug==0.11.11
+Werkzeug==0.15.3
 zope.interface==4.3.2
