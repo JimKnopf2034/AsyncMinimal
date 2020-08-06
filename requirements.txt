@@ -7,7 +7,7 @@ click==6.6
 Flask==1.0
 idna==2.1
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2
 klein==15.3.1
 MarkupSafe==0.23
 mccabe==0.5.2
