@@ -1,4 +1,4 @@
-aiohttp==1.0.2
+aiohttp==3.7.4
 async-timeout==1.0.0
 asyncio==3.4.3
 cffi==1.8.3
